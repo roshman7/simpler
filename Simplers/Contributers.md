@@ -12,4 +12,8 @@ name: Nilesh Das
 place: Raipur 
 bio: student
 
+Name = Navneet Kumar
+Place = Jaipur
+Bio = Student
+
 
